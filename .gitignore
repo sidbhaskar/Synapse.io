@@ -1,0 +1,44 @@
+# Miscellaneous
+synapse_io_app/*.class
+synapse_io_app/*.log
+synapse_io_app/*.pyc
+synapse_io_app/*.swp
+synapse_io_app/.DS_Store
+synapse_io_app/.atom/
+synapse_io_app/.buildlog/
+synapse_io_app/.history
+synapse_io_app/.svn/
+synapse_io_app/migrate_working_dir/
+synapse_io_app/.vscode/
+
+# IntelliJ related
+synapse_io_app/*.iml
+synapse_io_app/*.ipr
+synapse_io_app/*.iws
+synapse_io_app/.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+synapse_io_app/**/doc/api/
+synapse_io_app/**/ios/Flutter/.last_build_id
+synapse_io_app/.dart_tool/
+synapse_io_app/.flutter-plugins
+synapse_io_app/.flutter-plugins-dependencies
+synapse_io_app/.pub-cache/
+synapse_io_app/.pub/
+synapse_io_app/build/
+
+# Symbolication related
+synapse_io_app/app.*.symbols
+
+# Obfuscation related
+synapse_io_app/app.*.map.json
+
+# Android Studio will place build artifacts here
+synapse_io_app/android/app/debug
+synapse_io_app/android/app/profile
+synapse_io_app/android/app/release
