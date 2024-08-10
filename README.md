@@ -9,7 +9,7 @@ Key Features:
 - Natural Language Querying: Users can ask questions in plain English to retrieve data from databases.
 - AI-Powered Interpretation: Utilizes Llama 2 to understand user intent and generate accurate SQL queries.
 - Automated Visualization: Presents query results in easy-to-understand visual formats.
-- Cross-Platform Compatibility: Built with Flutter for seamless performance on both iOS and Android devices.
+- Cross-Platform Compatibility: Built with Flutter for seamless performance on Android devices.
 
 Synapse.io aims to democratize data access, making it possible for non-technical users to gain valuable insights from complex datasets. Whether in educational institutions, small businesses, or large enterprises, Synapse.io empowers users to make data-driven decisions without the need for specialized database knowledge.
 
@@ -29,7 +29,7 @@ Leveraging Llama 2, the app translates natural language inputs into accurate SQL
 Query results are automatically transformed into easily digestible visual formats such as charts, graphs, or tables, making data interpretation intuitive and quick.
 
 - Cross-Platform Compatibility:
-Built using Flutter, Synapse.io offers a consistent, high-performance experience across both iOS and Android devices, maximizing its reach and usability.
+Built using Flutter, Synapse.io offers a consistent, high-performance experience across Android devices, maximizing its reach and usability.
 
 - Real-time Database Connection:
 The app maintains a live connection to databases, allowing for real-time data retrieval and analysis. This ensures that users always have access to the most up-to-date information.
@@ -77,7 +77,7 @@ With a clean, intuitive design, Synapse.io makes complex data operations feel si
 
 7. Launch and Deployment:
 
-- Released the app on iOS and Android platforms
+- Released the app on Android platforms
 - Gathered user feedback for future improvements
 
 
@@ -88,12 +88,6 @@ This roadmap outlines the key steps taken to bring Synapse.io from concept to re
 
 #### What is Synapse.io in general?
 Synapse.io is a mobile application that allows users to query databases using natural language. It uses advanced AI technology (Llama 2) to interpret everyday language and convert it into database queries, making data access and analysis accessible to non-technical users.
-
-#### What platforms does Synapse.io work on?
-Synapse.io is built using Flutter, which means it's compatible with both iOS and Android devices. Users can download and use the app on smartphones and tablets running either of these operating systems.
-
-#### How can I use Synapse.io?
-To use Synapse.io, simply download the app from your device's app store (iOS App Store or Google Play Store). Once installed, you can connect it to your database (following the in-app instructions), and then start asking questions in plain English. The app will interpret your questions, query the database, and present the results in an easy-to-understand format.
 
 #### Who is the target audience for Synapse.io?
 Synapse.io is designed for a wide range of users who need to access and analyze data but may not have technical database query skills. This includes:
