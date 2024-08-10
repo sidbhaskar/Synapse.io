@@ -106,6 +106,13 @@ Any individual or organization that wants to democratize access to their data
 
 The app is particularly useful for those who find traditional database querying methods challenging or time-consuming.
 
+## Sample Video
+
+
+https://github.com/user-attachments/assets/6715e593-34f6-4637-b184-579c642b9ef3
+
+
+
 ## Authors
 
 - @Aaditya Joshi (https://www.github.com/sharpaxis)
